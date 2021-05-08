@@ -1,4 +1,3 @@
-## Ergodická literatura - Twine
 <html>
 <head>
 <meta charset="utf-8">
